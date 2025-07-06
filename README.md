@@ -75,9 +75,7 @@ Hey there! I'm **Latha**, a passionate **Frontend Developer** with a royal flair
 
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=mLatha09&show_icons=true&theme=tokyonight" />
-   
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mLatha09&layout=compact&theme=radical" />
-    </td>
  </p>
 
 ---
