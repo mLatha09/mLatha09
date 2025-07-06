@@ -1,0 +1,2 @@
+# mLatha09
+Passionate and driven developer focused on building clean, responsive, and user-friendly web applications. Skilled in HTML, CSS, JavaScript, Java, and Python, with a growing interest in full-stack development and intelligent systems.  🌟 Key Highlights:  💻 Frontend Projects: Interactive UIs, utilities, responsive designs  🧠 Backend & Logic: API integration, Python/Java-based automation  🛠️ Tools: Git, GitHub, VS Code, Postman, Canva, Figma  📊 Focused on clean code, strong UI/UX, and continuous learning
