@@ -50,7 +50,7 @@ Hey there! I'm **Latha**, a passionate **Frontend Developer** with a royal flair
 
 - 🦸‍♀️ Nickname: **ChocoCoder** – Coding with sweetness and energy 🍫💻!
 - 📚 I'am a **CodeKitten** :Adorable yet curious; always learning and playing with code 🐱💻
-- 🎯 Goal: Become the **a problem-solving powerhouse** 💼👠
+- 🎯 Goal: Become **a problem-solving powerhouse** 💼👠
 
 - ❤️ My boyfriend? In a committed relationship with Code.😍
 - 💬 Coding is not just what I do – it’s my love story. 💻💕
@@ -73,9 +73,9 @@ Hey there! I'm **Latha**, a passionate **Frontend Developer** with a royal flair
 
 ## 📊 GitHub Stats
 
-![Latha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=empresslatha&show_icons=true&theme=tokyonight)
+![Latha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mLatha09&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empresslatha&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mLatha09&layout=compact&theme=radical)
 
 ---
 
