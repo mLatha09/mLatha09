@@ -3,7 +3,7 @@ Passionate and driven developer focused on building clean, responsive, and user-
 
 # 🌟 Empress Latha – Ruling Code & Creativity 👩‍💻💖
 
-![Profile Banner](https://i.imgur.com/H1aH2OV.png)
+![Profile Banner](my_banner.jpg)
 
 > 🚀 “Building an Empire with Code, Confidence & Creativity.” – *Empress Latha*
 
@@ -43,7 +43,7 @@ Hey there! I'm **Latha**, a passionate **Frontend Developer** with a royal flair
 ### 🦑 Squid Game Web Portal
 > A dark-themed immersive web app with character animations, game pages & story profiles!
 
-> 🌐 Check out more on my [GitHub Repos](#)!
+> 🌐 Check out more on my [GitHub Repos](https://github.com/mLatha09?tab=repositories)!
 
 ---
 
@@ -60,9 +60,9 @@ Hey there! I'm **Latha**, a passionate **Frontend Developer** with a royal flair
 ## 📞 Let's Connect & Build Empires
 
 - 📧 Email: `agsarlatha@gmail.com`
-- 🌐 GitHub: [github.com/empresslatha](https://github.com/mLatha09)
-- 💼 LinkedIn: [linkedin.com/in/empresslatha](https://www.linkedin.com/in/m-latha)
-- 🛍️ Instagram Store: [@trendytreasure4u](https://www.instagram.com/trendy_treasure4u?igsh=MXcyZ2Zqc3B1eDl6Zg==)
+- 🌐 GitHub: [mLatha09](https://github.com/mLatha09)
+- 💼 LinkedIn: [M Latha](https://www.linkedin.com/in/m-latha)
+- 🛍️ Instagram Store: [@trendy_treasure4u](https://www.instagram.com/trendy_treasure4u?igsh=MXcyZ2Zqc3B1eDl6Zg==)
 
 ---
 
