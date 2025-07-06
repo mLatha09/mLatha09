@@ -1,10 +1,10 @@
 
 
-# 🌟 Empress Latha – Ruling Code & Creativity 👩‍💻💖
+# 🌸 Latha | Developer • Designer • Dreamer — Just a Girl in Love with Code 👩‍💻💖
 
 ![Profile Banner](my_banner.jpg)
 
-> 🚀 “Building an Empire with Code, Confidence & Creativity.” – *Empress Latha*
+> 🚀 “Building an Empire with Code, Confidence & Creativity.” – * CodePuff Latha*
 
 ---
 
@@ -31,7 +31,7 @@ Hey there! I'm **Latha**, a passionate **Frontend Developer** with a royal flair
 
 ## 🌈 Featured Projects
 
-### 🧠 EmpressOS – AI Desktop Companion
+### 🧠 Codi – AI Desktop Companion
 > Your elegant digital assistant: Smart GUI, voice/text commands, APIs, DB automation & more!
 
 ### 🧮 Mini Web Projects
