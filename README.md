@@ -73,12 +73,17 @@ Hey there! I'm **Latha**, a passionate **Frontend Developer** with a royal flair
 
 ## 📊 GitHub Stats
 
-![Latha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mLatha09&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mLatha09&layout=compact&theme=radical)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mLatha09&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mLatha09&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 ---
-
 > 🔥 Built with passion, styled with sass, and deployed with confidence!  
 > _💖 Let's create something extraordinary together._
 
